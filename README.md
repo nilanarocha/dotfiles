@@ -9,7 +9,7 @@
 ## How to install
 
 ```bash
-curl https://raw.githubusercontent.com/willmendesneto/dotfiles/master/setup | bash
+curl https://raw.githubusercontent.com/nilanarocha/dotfiles/master/setup | bash
 ```
 
 
@@ -18,7 +18,7 @@ curl https://raw.githubusercontent.com/willmendesneto/dotfiles/master/setup | ba
 If you want to use the options, you need to clone this project and run the `setup` file locally *like the command below*
 
 ```bash
-git clone https://github.com/willmendesneto/dotfiles.git ~/dotfiles
+git clone https://github.com/nilanarocha/dotfiles.git ~/dotfiles
 cd ~/dotfiles
 ./setup [options]
 ```
@@ -80,9 +80,3 @@ After that, this should be your terminal
 <img width="682" alt="Hyper Oh-My-ZSH - Inside a folder with git configuration" src="https://user-images.githubusercontent.com/1252570/43366555-1a7e5eb2-9383-11e8-89d5-98b255968bdb.png">
 
 
-## Author
-
-**Wilson Mendes (willmendesneto)**
-+ <https://plus.google.com/+WilsonMendes>
-+ <https://twitter.com/willmendesneto>
-+ <http://github.com/willmendesneto>
